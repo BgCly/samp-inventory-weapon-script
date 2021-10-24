@@ -1,0 +1,1 @@
+# samp-inventory-weapon-script
